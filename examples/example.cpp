@@ -1,6 +1,5 @@
 #include "easy_log.h"
 #include "cout_log_interface.h"
-#include <iostream>
 
 int main()
 {
