@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ([2.69])
-AC_INIT([easylog], [0.0.3], [466474482@qq.com])
+AC_INIT([easylog], [0.0.4], [bluesky466@qq.com])
 AM_INIT_AUTOMAKE([-Wall -Werror foreign])
 AC_CONFIG_SRCDIR([src/log_interface.h])
 AC_CONFIG_HEADERS([config.h])
